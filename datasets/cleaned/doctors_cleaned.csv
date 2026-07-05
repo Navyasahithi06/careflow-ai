@@ -1,0 +1,11 @@
+doctor_id,doctor_name,department,specialization,experience_years,consultation_time_min,availability
+D101,Dr. Rajesh Kumar,Cardiology,Cardiologist,12,15,Available
+D102,Dr. Priya Sharma,Neurology,Neurologist,8,20,Available
+D103,Dr. Anil Reddy,Orthopedics,Orthopedic Surgeon,10,15,Busy
+D104,Dr. Kavitha Rao,Pediatrics,Pediatrician,7,10,Available
+D105,Dr. Suresh Naik,General Medicine,Physician,15,12,Available
+D106,Dr. Meena Gupta,ENT,ENT Specialist,9,15,Available
+D107,Dr. Arjun Verma,Dermatology,Dermatologist,6,10,Busy
+D108,Dr. Sneha Patil,Gynecology,Gynecologist,11,20,Available
+D109,Dr. Ravi Teja,Oncology,Oncologist,14,25,Available
+D110,Dr. Nisha Singh,Ophthalmology,Eye Specialist,8,10,Available
